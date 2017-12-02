@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list id="6bc8c02a-e3bc-4a05-9335-111d4917993c" name="Default" comment="" />
     <list default="true" id="d17106dd-aa1e-4fe8-b08d-8f8d72dcf596" name="New changelist" comment="New changelist">
-      <change beforePath="$USER_HOME$/Documents/development/workspace/Scala/example-2/.gitignore" afterPath="$USER_HOME$/Documents/development/workspace/Scala/example-2/.gitignore" />
       <change beforePath="$USER_HOME$/Documents/development/workspace/Scala/example-2/.idea/workspace.xml" afterPath="$USER_HOME$/Documents/development/workspace/Scala/example-2/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -52,7 +51,7 @@
         <entry file="file://$USER_HOME$/Documents/development/workspace/Scala/example-2/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+              <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -638,7 +637,7 @@
     <entry file="file://$USER_HOME$/Documents/development/workspace/Scala/example-2/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
           <folding />
         </state>
       </provider>
